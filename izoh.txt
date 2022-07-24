@@ -1,0 +1,22 @@
+1-Node haqida tushuncha
+2-Terminalda ishlash
+    windows uchun
+    cd - bu yunalish qerga ute digani
+    cd .. - bu bitta orqaga qaytadi ya'ni nazad
+    cd tab - bu uzi padskazka chiqarib beradi
+    dir - bu uwa qerda turgan busek uwa joydegi hamma fayl papkalani kursatadi
+    md - bu papka yaratish i kiyn md dan kiyn yaratmoqchi bugan papkamizni nomini yozamiz
+    rd - bu uwa yaratgan papkamizni uchiradi 
+    d: - bu diskdan diskga utish hozir d diskga utdik
+    c: - bu c diskga utkazib beradi
+    mac Os uchun
+    cd - bunda ham yunalish 
+    chflags hidden - ~/Desktop/Секретная папка bu yartgan papkamizni yashirish
+    chflags nohidden - ~/Desktop/Секретная папка bu yawirgan papkamizni kursatish
+    mkdir - papka yaratish 
+    rmdir - uwa yaratgan papkani uchirsh
+    mkfile - fayl yaratish
+3-Node.js ustanovka
+4-Npm haqida tushuncha NODE PACKAGE MANAJER
+5-Es5 
+
